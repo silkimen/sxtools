@@ -17,5 +17,8 @@
     "typescript": ">=3.8.3",
     "tslint-config-airbnb": "^5.11.2",
     "tslint": "^6.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
