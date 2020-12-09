@@ -1,0 +1,19 @@
+{
+  "name": "ts-config",
+  "version": "0.0.0",
+  "description": "base tsconfig",
+  "author": "Sefa Ilkimen <silkimen@users.noreply.github.com>",
+  "homepage": "https://github.com/silkimen/sxtools/tree/master/packages/ts-config#readme",
+  "license": "MIT",
+  "main": "tsconfig.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://silkimen@github.com/silkimen/sxtools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/silkimen/sxtools/issues"
+  },
+  "peerDependencies": {
+    "typescript-tslint-plugin": "^1.0.0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "sxtools",
+  "version": "1.0.0",
+  "description": "personal collection of JS / TS tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "lerna run test",
+    "postinstall": "npx lerna bootstrap --loglevel verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://silkimen@github.com/silkimen/sxtools.git"
+  },
+  "author": "Sefa Ilkimen <silkimen@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silkimen/sxtools/issues"
+  },
+  "homepage": "https://github.com/silkimen/sxtools#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}

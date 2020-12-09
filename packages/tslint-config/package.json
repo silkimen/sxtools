@@ -1,0 +1,21 @@
+{
+  "name": "tslint-config",
+  "version": "0.0.0",
+  "description": "base tslint config",
+  "author": "Sefa Ilkimen <silkimen@users.noreply.github.com>",
+  "homepage": "https://github.com/silkimen/sxtools/tree/master/packages/tslint-config#readme",
+  "license": "MIT",
+  "main": "tslint.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://silkimen@github.com/silkimen/sxtools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/silkimen/sxtools/issues"
+  },
+  "peerDependencies": {
+    "typescript": ">=3.8.3",
+    "tslint-config-airbnb": "^5.11.2",
+    "tslint": "^6.1.0"
+  }
+}
