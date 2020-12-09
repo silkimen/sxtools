@@ -1,5 +1,5 @@
 {
-  "name": "ts-config",
+  "name": "@sxtools/ts-config",
   "version": "0.0.0",
   "description": "base tsconfig",
   "author": "Sefa Ilkimen <silkimen@users.noreply.github.com>",

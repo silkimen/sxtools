@@ -1,5 +1,5 @@
 {
-  "name": "tslint-config",
+  "name": "@sxtools/tslint-config",
   "version": "0.0.0",
   "description": "base tslint config",
   "author": "Sefa Ilkimen <silkimen@users.noreply.github.com>",
